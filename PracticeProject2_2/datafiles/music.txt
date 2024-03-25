@@ -1,0 +1,100 @@
+m_no	m_name	singer	album	composer	lyricist	playtime	agelimit	soundquality	m_img
+1	All You Need Is Love (Remastered 2015)	The Beatles(비틀스)	1 (Remastered)	RedOne		4:19	0	FLAC 44.1khz 16bit	
+2	Bad Romance	Lady GaGa(레이디 가가)	The Fame Monster (International Deluxe)			2:18	1	FLAC 24bit converter	
+3	Imagine (Remastered 2010)	John Lennon(존 레논)	Signature Box			2:36	0	FLAC 16bit	
+4	We Are The Champions (Remastered 2011)	Queen(퀸)	News Of The World (2011 Remaster)			4:02	0	FLAC web 16bits	
+5	Let It Go (From "Frozen"/Soundtrack Version)	Idina Menzel(이디나 멘젤)	겨울왕국 (Frozen) OST	Kristen Anderson-Lopez 		4:11	0	FLAC web 16bits	
+6	I'm Yours	Jason Mraz(제이슨 므라즈)	We Sing. We Dance. We Steal Things.			3:45	0	FLAC 44.1khz 16bit	
+7	Titanium (feat. Sia)	David Guetta(데이빗 게타)	Nothing but the Beat (Ultimate Edition)			2:53	0	FLAC 44.1khz 16bit	
+8	Sweet Home Alabama	Lynyrd Skynyrd(레너드 스키너드)	Classic Lynyrd Skynyrd - The Universal Masters Collection			3:19	0	FLAC web 16bits	
+9	Don't Stop Believin'	Journey(저니)	The Essential Journey	 スティーヴンペリー 	 スティーヴンペリー 	3:36	0	FLAC 16bit	
+10	Brown Eyed Girl	Van Morrison(밴 모리슨)	Playlist: The Very Best Of Van Morrison			3:10	0	FLAC web 24bits	
+11	Same Love (feat. Mary Lambert)	Macklemore(맥클모어)Macklemore(맥클모어)	The Heist (Clean Ver.)			3:27	0	FLAC 16bit	
+12	1999	Prince(프린스)	1999			2:36	0	FLAC 44.1khz 16bit	
+13	Do They Know It's Christmas? (1984 Version)	Band Aid 20(밴드 에이드 20)	Do They Know It's Christmas?			3:10	0	FLAC 44.1khz 16bit	
+14	Give Peace A Chance (Remastered 2010)	John Lennon(존 레논)John Lennon(존 레논)	Signature Box	John Lennon(존 레논)		1:26	0	FLAC 44.1khz 16bit	
+15	Space Oddity (2009 Remaster)	David Bowie(데이빗 보위)	Legacy (The Very Best Of David Bowie) [Deluxe]			2:36	0	FLAC 24bit converter	
+16	Holiday	Madonna(마돈나)	Celebration			2:53	0	FLAC web 16bits	
+17	Desert Rose	Sting(스팅)	The Best Of 25 Years			3:27	0	FLAC 16bit	
+18	Your Body Is a Wonderland	John Mayer(존 메이어)	Room For Squares			4:19	0	FLAC 44.1khz 16bit	
+19	Free Bird	Lynyrd Skynyrd(레너드 스키너드)	Playlist Plus			2:44	0	FLAC 16bit	
+20	22 (Karaoke Version)	Taylor Swift(테일러 스위프트)	Red			3:27	0	FLAC 24bit	
+21	Theme From The Dukes Of Hazzard (Good Ol' Boys)	Waylon Jennings(웨일런 제닝스)	Playlist: The Very Best Of Waylon Jennings			1:44	0	FLAC web 24bits	
+22	La Bamba	Ritchie Valens(리치 밸런스)	Best Of Ritchie Valens			1:26	0	FLAC web 16bits	
+23	Born To Run	Bruce Springsteen(브루스 스프링스틴)	The Essential Bruce Springsteen			4:11	0	FLAC 24bit	
+24	Big Yellow Taxi	Joni Mitchell(조니 미첼)	The Studio Albums (1968-1979)			4:02	0	FLAC 44.1khz 16bit	
+25	Piano Man	Billy Joel(빌리 조엘)	Piano Man - The Very Best Of Billy Joel			2:53	0	FLAC web 24bits	
+26	In Your Eyes (Remastered)	Peter Gabriel(피터 가브리엘)	So (Special Edition)	Peter Gabriel(피터 가브리엘)		2:10	0	FLAC 24bit	
+27	Mercy	Duffy(더피)	Rockferry	Duffy(더피) 		4:11	0	FLAC 24bit converter	
+28	Old Time Rock And Roll (2011 - Remaster)	Bob Seger(밥 시거)Bob Seger(밥 시거)	Ultimate Hits: Rock And Roll Never Forgets	Akiva Schaffer		4:11	0	FLAC 24bit	
+29	Under Pressure (Remastered 2011)	Queen(퀸)	Hot Space (2011 Remaster)			3:10	0	FLAC 44.1khz 16bit	
+30	I Just Had Sex (feat. Akon) (Explicit Version)	The Lonely Island(더 론리 아일랜드)	Turtleneck & Chain (Explicit Version)	George Douglas	George Douglas	1:35	0	FLAC 24bit	
+31	A Change Is Gonna Come	Sam Cooke(샘 쿡)	Portrait Of A Legend 1951-1964			2:01	0	FLAC 24bit converter	
+32	What A Wonderful World	Louis Armstrong(루이 암스트롱)	What A Wonderful World	Albert Hammond	Thom Yorke	3:01	0	FLAC 44.1khz 16bit	
+33	Seasons Of Love - From The Motion Picture RENT (Album Version)	Cast Of Rent	“Seasons Of Love“ - From The Motion Picture RENT	Angus Young	Angus Young	1:44	0	FLAC 16bit	
+34	Creep	Radiohead(라디오헤드)	Pablo Honey			3:53	1	FLAC 16bit	
+35	You Shook Me All Night Long (Live) (duet with Anastacia-Live from VH1 Divas)	Celine Dion(셀린 디온)Celine Dion(셀린 디온)	Divas Las Vegas	Ingrid Michaelson		3:19	0	FLAC web 16bits	
+36	Rapper's Delight	Sugarhill Gang(슈가힐 갱)	The Best Of SugarHill Gang	 吉姆史坦曼	 吉姆史坦曼	3:36	0	FLAC 24bit	
+37	The Way I Am	Ingrid Michaelson(잉그리드 마이클슨)	Girls and Boys	Norman Whitfield		2:44	0	FLAC web 16bits	
+38	Constant Craving (Album Version)	K.D. Lang(케이디 랭)	Rhino Hi-Five: k.d. lang			2:36	0	FLAC web 24bits	
+39	Paradise by the Dashboard Light	Meat Loaf(미트 로프)Meat Loaf(미트 로프)	The Very Best Of Meat Loaf	Phil Thornalley	Phil Thornalley	4:02	0	FLAC 44.1khz 16bit	
+40	The End Of Our Road	Marvin Gaye(마빈 게이)	M.P.G.	Stephen Sondheim	Stephen Sondheim	2:27	0	FLAC 44.1khz 16bit	
+41	Tiny Dancer	Elton John(엘튼 존)	Madman Across The Water			4:11	0	FLAC web 24bits	
+42	Torn	Natalie Imbruglia(나탈리 임브룰리아)	Left Of The Middle			2:36	0	FLAC web 16bits	
+43	Somewhere	Barbra Streisand(바브라 스트라이샌드)	The Essential Barbra Streisand	 Glenn Tilbrook		3:36	0	FLAC 16bit	
+44	Centerfield	John Fogerty(존 포거티)	Centerfield - 25th Anniversary			1:52	0	FLAC 44.1khz 16bit	
+45	Handle With Care	Traveling Wilburys	Handle With Care [2 track bundle]			2:53	0	FLAC 24bit converter	
+46	It's Raining Men	Weather Girls(웨더 걸스)	Super Hits			4:11	0	FLAC 44.1khz 16bit	
+47	Shout (Parts 1 & 2) (영화 ‘스윙키즈’ 수록곡)	Isley Brothers(아이즐리 브라더스)	The Essential Isley Brothers			3:45	0	FLAC 24bit converter	
+48	Yellow	Coldplay(콜드플레이)	Parachutes			4:11	0	FLAC 24bit	
+49	Tempted	Squeeze(스퀴즈)	Greatest Hits			2:10	0	FLAC 44.1khz 16bit	
+50	A Little Less Conversation (JXL Radio Edit Remix)	JXL	Milestones - Elvis			3:53	0	FLAC 16bit	
+51	Stan (feat. Dido)	Eminem(에미넴)	The Marshall Mathers LP	Marshall Mathers		4:11	1	FLAC web 24bits	
+52	The Rising	Bruce Springsteen(브루스 스프링스틴)	The Rising			3:53	0	FLAC 24bit converter	
+53	New Year's Day (Remastered 2008)	U2(유투)	War (Remastered)	The Edge		1:26	0	FLAC 16bit	
+54	And She Was	Talking Heads(토킹 헤즈)	Little Creatures			4:19	0	FLAC 24bit	
+55	Empire State of Mind (Part II) Broken Down	Alicia Keys(앨리샤 키스)	The Element Of Freedom	 Alicia Keys(앨리샤 키스)	 Alicia Keys(앨리샤 키스)	2:53	0	FLAC 24bit	
+56	I Am The Walrus (Remastered 2009)	The Beatles(비틀스)	The Beatles 1967 - 1970 (Remastered)			2:10	0	FLAC 24bit	
+57	Girls Ain't Nothing But Trouble (1988 Extended Remix)	Jazzy Jeff & Fresh Prince	Greatest Hits			2:36	0	FLAC web 16bits	
+58	Taking You Home	Don Henley(돈 헨리) [Eagles]	Inside Job	Stan Lynch		3:45	0	FLAC web 24bits	
+59	The Ghost in You	The Psychedelic Furs	All Of This And Nothing			3:36	0	FLAC 24bit	
+60	Through the Fire	Chaka Khan(샤카 칸)	Epiphany: The Best of Chaka Khan, Vol. 1	Timothy Butler	Timothy Butler	2:27	0	FLAC 44.1khz 16bit	
+61	Falling Slowly (With Marketa Irglova)	Glen Hansard(글렌 한사드)	원스 (Once)			2:10	0	FLAC 16bit	
+62	Surrender	Cheap Trick(칩 트릭)	Made in America			2:01	0	FLAC web 24bits	
+63	Turning Tables	Adele(아델)	21	R. Nielsen	R. Nielsen	2:18	0	FLAC web 24bits	
+64	Put Your Records On	Corinne Bailey Rae(코린 베일리 래)	Corinne Bailey Rae			3:53	0	FLAC 16bit	
+65	Forever Young	Alphaville(알파빌)	Forever Young			1:52	0	FLAC 24bit converter	
+66	Supercalifragilisticexpialidocious (From "Mary Poppins" Soundtrack)	Julie Andrews(줄리 앤드류스)Julie Andrews(줄리 앤드류스)	Mary Poppins	 Julie Andrews(줄리 앤드류스)	 Robert B. Sherman	2:10	0	FLAC web 16bits	
+67	Carolina In My Mind	James Taylor(제임스 테일러)	The Essential James Taylor			1:35	0	FLAC 16bit	
+68	Lights	Journey(저니)	The Essential Journey	スティーヴンペリー 	スティーヴンペリー 	3:36	0	FLAC web 16bits	
+69	Can You Feel The Beat	Lisa LisaLisa Lisa	Playlist: The Very Best Of Lisa Lisa & Cult Jam With Full Force			1:44	0	FLAC 24bit converter	
+70	Stubborn Love	The Lumineers(더 루미니어스)	The Lumineers			1:26	0	FLAC 24bit	
+71	Sgt. Pepper's Lonely Hearts Club Band (Remastered 2009)	The Beatles(비틀스)	The Beatles 1967 - 1970 (Remastered)	Paul McCartney		1:26	0	FLAC web 16bits	
+72	Home	Michael Bublé(마이클 부블레)	It's Time			1:26	0	FLAC 24bit converter	
+73	You Raise Me Up	Josh Groban(조쉬 그로반)	Closer			2:01	0	FLAC 24bit	
+74	My Generation (Original Mono Version)	The Who(더 후)	The Who- The Greatest Hits & More (International Version (Edited))			2:36	0	FLAC 24bit	
+75	Talkin' Bout a Revolution	Tracy Chapman(트래이시 채프만)	Collection			4:19	0	FLAC 24bit converter	
+76	I Melt With You	Modern English(모던 잉글리쉬)	OMG! '80s Hidden Gems			1:26	0	FLAC 44.1khz 16bit	
+77	Good Enough	Sarah McLachlan(사라 맥라클란)	Fumbling Towards Ecstacy			2:01	0	FLAC web 24bits	
+78	Radio Free Europe	R.E.M.(알이엠)	The Best Of R.E.M.			4:19	0	FLAC 16bit	
+79	Caribbean Blue	Enya(엔야)	Themes From “Calmi Cuori Appassionati“	 Chuck Berry(척 베리)		2:01	0	FLAC 24bit converter	
+80	Johnny B. Goode	Chuck Berry(척 베리)	Berry Is On Top			4:02	0	FLAC 24bit converter	
+81	No Parking (On The Dance Floor)	Midnight Star(미드나이트 스타)	Club Epic			1:35	0	FLAC 44.1khz 16bit	
+82	Holiday Road	Lindsey Buckingham(린지 버킹햄)	Live At The Bass Performance Hall (Live)			2:01	0	FLAC 16bit	
+83	Where Everybody Knows Your Name (Cheers Theme)	Gary Portnoy(게리 포트노이)	Keeper			3:27	0	FLAC 24bit converter	
+84	Englishman In New York	Sting(스팅)	The Best Of 25 Years			2:44	0	FLAC web 24bits	
+85	Marry You	Bruno Mars(브루노 마스)	Doo-Wops & Hooligans			2:44	1	FLAC 24bit converter	
+86	Talk	Coldplay(콜드플레이)	X&Y			4:11	0	FLAC 44.1khz 16bit	
+87	Body And Soul	Tony Bennett(토니 베넷)Tony Bennett(토니 베넷)	Body And Soul			2:01	0	FLAC 24bit converter	
+88	The Old Apartment	Barenaked Ladies(베어네이키드 레이디즈)	Disc One: All Their Greatest Hits 1991 - 2001			3:19	0	FLAC 44.1khz 16bit	
+89	Home Sweet Home	Mötley Crüe(머틀리 크루)	Theatre Of Pain (2015 Re-Issue)	 Glen Campbell(글렌 캠벨)		2:53	0	FLAC web 16bits	
+90	I'm Not Gonna Miss You (Nashville Radio Single Version)	Glen Campbell(글렌 캠벨)	Glen Campbell: I'll Be Me | Original Motion Picture Soundtrack			3:19	0	FLAC 16bit	
+91	Anyone Else But You (With Ellen Page)	Michael Cera	주노 (Juno)			4:11	0	FLAC web 16bits	
+92	Moondance	Van Morrison(밴 모리슨)	Moondance			2:36	0	FLAC 24bit	
+93	Should've Been A Cowboy	Toby Keith(토비 키스)	Toby Keith	Gary Richrath	Gary Richrath	3:01	0	FLAC 24bit converter	
+94	Ridin' the Storm Out (Live on U.S. Tour - 1976)	REO Speedwagon(알이오 스피드 웨건)	The Essential REO Speedwagon			3:45	0	FLAC web 24bits	
+95	I'm Happy Just To Dance With You (Remastered 2009)	The Beatles(비틀스)	A Hard Day's Night (Remastered)			1:52	0	FLAC 44.1khz 16bit	
+96	Soulmate	Natasha Bedingfield(나타샤 베딩필드)	N.B.			3:01	0	FLAC 44.1khz 16bit	
+97	She Loves You (Mono / Remastered)	The Beatles(비틀스)	1 (Remastered)			2:53	0	FLAC 44.1khz 16bit	
+98	Bizarre Love Triangle (2015 Digital Remaster)	New Order(뉴 오더)	Brotherhood (2015 Remastered)			1:52	0	FLAC web 16bits	
+99	Fat	Weird Al Yankovic(위어드 알 얀코빅)	"Weird Al" Yankovic's Greatest Hits			2:53	0	FLAC 24bit converter	
