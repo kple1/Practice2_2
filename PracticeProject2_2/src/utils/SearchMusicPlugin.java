@@ -22,7 +22,7 @@ public class SearchMusicPlugin extends JPanel {
 
 	String name;
 	String longName;
-	public SearchMusicPlugin(byte[] getImage, String a_name, int getAge, String arti, JFrame frame) {
+	public SearchMusicPlugin(byte[] getImage, String a_name, int getAge, JFrame frame) {
 		name = a_name;
 		longName = a_name;
 		JLabel downloadLogo = new JLabel("");
@@ -40,6 +40,7 @@ public class SearchMusicPlugin extends JPanel {
 			@Override
 			public void mouseEntered(MouseEvent e) {
 				downloadLogo.setVisible(true);
+				String arti = DB.getString("singer", "music", "m_name", a_name);
 				setToolTipText("<html>아티스트: " + arti +  "<br>제목: " + name + "<html/>");
 			}
 			@Override
